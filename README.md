@@ -4,7 +4,7 @@
 To write a C# program for a pascal's triangle
 
 ## Equipment Required:
- *C# Compiler or visual studio 
+ * C# Compiler or visual studio 
 ## Algorithm:
 ### Step 1: 
 Initialize the necessary attributes.
