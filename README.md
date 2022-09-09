@@ -16,9 +16,12 @@ using for loop print the rows and columns and space.
 Check the first and last rows of the triange is 1 using if condition.
 ### Step 5:
 Otherwise use else to print the inner value
+
 val = val * (i - j + 1) / j;
 ### Step 6:
-Run the program without any error.
+Check the program for any error.
+### Step 7:
+print the program.
 ## Program:
 ```
 using System;
